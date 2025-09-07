@@ -1,0 +1,1 @@
+export type ImageLayout = "carousel" | "scattered" | "grid" | "masonry" | "floating" | "spiral"
